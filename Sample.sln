@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Test", "Sample.TEst\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.API", "Sample.API\Sample.API.csproj", "{92332E8D-901C-4A92-99B3-F34569FE91C9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContosoPizza", "..\..\..\Downloads\ef-core-for-beginners-main\ef-core-for-beginners-main\parts\4-database-providers\ContosoPizza\ContosoPizza.csproj", "{AF3A1F6F-79FC-41C5-8A28-D5A09B0F89B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SamplePizza.Data", "SamplePizza.Data\SamplePizza.Data.csproj", "{11611372-179E-46B6-B6C3-D129A1DD6D7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{92332E8D-901C-4A92-99B3-F34569FE91C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92332E8D-901C-4A92-99B3-F34569FE91C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92332E8D-901C-4A92-99B3-F34569FE91C9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AF3A1F6F-79FC-41C5-8A28-D5A09B0F89B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF3A1F6F-79FC-41C5-8A28-D5A09B0F89B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF3A1F6F-79FC-41C5-8A28-D5A09B0F89B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF3A1F6F-79FC-41C5-8A28-D5A09B0F89B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11611372-179E-46B6-B6C3-D129A1DD6D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11611372-179E-46B6-B6C3-D129A1DD6D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11611372-179E-46B6-B6C3-D129A1DD6D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11611372-179E-46B6-B6C3-D129A1DD6D7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
